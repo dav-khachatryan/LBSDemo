@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluate Suppliers"
+  short_description: "Compare payable costs and hard supplier constraints"
+  default_prompt: "Use $evaluate-suppliers to compare these proposals and prepare a cost workbook and recommendation."
